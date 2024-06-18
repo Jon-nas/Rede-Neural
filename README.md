@@ -5,7 +5,7 @@
    - Divisão dos dados em conjuntos de treinamento, validação e teste.
 
 2. **Bibliotecas Python:**
-   - Utilizaão de bibliotecas como Numpy (para álgebra linear) e Pandas (para manipulação de dados).
+   - Utilização de bibliotecas como Numpy (para álgebra linear) e Pandas (para manipulação de dados).
    - Para redes neurais, TensorFlow, Keras e PyTorch.
 
 3. **Construção da Rede Neural:**
