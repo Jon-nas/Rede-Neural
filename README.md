@@ -1,4 +1,4 @@
-# Rede-Neural
+![Slide1](https://github.com/Jon-nas/Rede-Neural/assets/79430634/23e70c0b-57ec-4dbe-ad49-ea2b1c4a9c5c)
 
 1. **Preparação dos Dados:**
    - Coleta dados relevantes para o problema.
